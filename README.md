@@ -1,2 +1,11 @@
 # vickie-webite
-Restaurant Website 
+Restaurant Website
+
+#location
+-Liberia
+
+#technology
+-html
+-css
+-javascript
+-bootstrap
