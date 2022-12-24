@@ -4,7 +4,7 @@ Restaurant Website
 # location
 -Liberia
 
-#technology
+# technology
 -html
 -css
 -javascript
