@@ -1,7 +1,7 @@
 # vickie-webite
 Restaurant Website
 
-#location
+# location
 -Liberia
 
 #technology
